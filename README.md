@@ -7,6 +7,7 @@ I've been worked as data officer for 2 years. My responsibility are data collect
 * 🌍  I'm based in Southern Shan State
 * ✉️  You can contact me at [jeromelkw7@gmail.com](mailto:jeromelkw7@gmail.com)
 * 🧠  I'm currently learning Power BI, Data Studio
+# Projects
 
 ### Socials
 
