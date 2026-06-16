@@ -6,7 +6,7 @@ I've been worked as data Analyst for 2 years. I have a experiences on creating d
 * 🌍  I'm based in Southern Shan State
 * ✉️  You can contact me at [jeromelkw7@gmail.com](mailto:jeromelkw7@gmail.com)
 * 🧠  I'm currently learning Power BI, Data Studio
-# Projects 1: Project 1: Sales for May Restaurant
+# Projects 1: Project 1: Sales of May Restaurant
 In this project, I analyzed and visualized the sales data for May Restaurant. The data is sourced from the restaurant's sales list and has been processed using excel to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on the monthly sales.
 ### Socials
 
