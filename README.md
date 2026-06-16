@@ -2,8 +2,7 @@
 Data Analyst
 ------------
 
-I've been worked as data Analyst for 2 years. My responsibility are data collection, data checking, data entry and data verification for my organization. I also have to create the data visualization dashboard for our organization to data review.
-
+I've been worked as data Analyst for 2 years. I have a experiences on creating data visualization and dashboard.
 * 🌍  I'm based in Southern Shan State
 * ✉️  You can contact me at [jeromelkw7@gmail.com](mailto:jeromelkw7@gmail.com)
 * 🧠  I'm currently learning Power BI, Data Studio
